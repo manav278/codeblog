@@ -1,0 +1,12 @@
+.content {
+  border: 0.2vw solid saddlebrown;
+  background-color: yellow;
+  color: saddlebrown;
+  transition: border-radius 0.4s ease;
+}
+.content:hover {
+  background-color: rgb(98, 118, 129);
+  color: rgb(255, 255, 255);
+  border-radius: 1vw 1vw 1vw 1vw;
+}
+
